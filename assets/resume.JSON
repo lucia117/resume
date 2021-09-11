@@ -1,0 +1,215 @@
+{
+  "basics": {
+    "name": "Lucia Scharff",
+    "label": "Full Stack Developer",
+    "image": "",
+    "email": "luciascharff@gmail.com",
+    "phone": "+5493576416089",
+    "url": "",
+    "summary": "A summary of John Doe…",
+    "location": {
+      "address": "J J Paso (n) 3346",
+      "postalCode": "2400",
+      "city": "San Francisco",
+      "countryCode": "AR",
+      "region": "Cordoba"
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "lucia-scharff",
+        "url": "https://linkedin.com/in/lucia-scharff"
+      },
+      {
+        "network": "Github",
+        "username": "lucia117",
+        "url": "https://github.com/lucia117"
+      },
+      {
+        "network": "Twitter",
+        "username": "luScharff",
+        "url": "https://twitter.com/luScharff"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Company",
+      "position": "President",
+      "url": "https://company.com",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Description…",
+      "highlights": ["Started the company"],
+      "technologies": []
+    },
+    {
+      "name": "Compañía de Seguros El Norte S.A",
+      "position": "Desarrollador Full Stack",
+      "url": "https://www.elnorte.com.ar/",
+      "startDate": "feb-20",
+      "endDate": "presente",
+      "summary": "Diseño y desarrollo de frontend y backend",
+      "highlights": [
+        "html",
+        "CSS",
+        "php",
+        "java script",
+        "laravel",
+        "vue",
+        "sql"
+      ]
+    },
+    {
+      "name": "UNIVAC Ingeniería en Sistemas",
+      "position": "Desarrollador Full Stack ",
+      "url": "https://www.univac.com.ar",
+      "startDate": "mar-18",
+      "endDate": "abr-20",
+      "summary": "Diseño y desarrollo de  aplicaciones web app",
+      "highlights": [
+        "html",
+        "CSS",
+        "php",
+        "java script",
+        "mySql",
+        "apache cordova"
+      ]
+    },
+    {
+      "name": "Ministerio de Desarrollo Productivo",
+      "position": "Instructora - Programa 111 Mil",
+      "url": "",
+      "startDate": "may-17",
+      "endDate": "dic-17",
+      "summary": "El plan 111 mil que brindará la posibilidad de capacitación de jóvenes estudiantes de secundaria y egresados. El programa dotará a los jóvenes de herramientas de desarrollo de software para diferentes usos y destinatarios. Ademas ofrece los conocimientos y destrezas para trabajar en el sector informático. El objetivo es formar 100 mil programadores, 10 mil ingenieros y mil emprendedores. El Programa, que estará coordinado por los Ministerios de Producción y de Educación de la Nación.",
+      "highlights": ["java", "mySql"]
+    },
+
+    {
+      "name": "Soluciones Nexo SA",
+      "position": "Desarrollador de aplicaciones móviles",
+      "url": "https://www.nexosoluciones.com.ar/",
+      "startDate": "nov-16",
+      "endDate": "jun-17",
+      "summary": "Desarrollador de aplicaciones móviles",
+      "highlights": ["C#"]
+    },
+
+    {
+      "name": "UTN Facultad Regional San Francisco",
+      "position": "Tutor Académico - Análisis de Sistemas de Información ",
+      "url": "https://www.sanfrancisco.utn.edu.ar/",
+      "startDate": "mar-16",
+      "endDate": "dic-16",
+      "summary": "Apoyo académico entre pares a alumnos de segundo nivel de ingeniería en sistemas de información. Dictado de clases semanales.",
+      "highlights": ["UML"]
+    },
+
+    {
+      "name": "UTN Facultad Regional San Francisco",
+      "position": "Bibliotecaria",
+      "url": "https://www.sanfrancisco.utn.edu.ar/",
+      "startDate": "mar-12",
+      "endDate": "mar-16",
+      "summary": " Atención al público, desarrollo y gestión de base de datos de biblioteca virtual.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "UTN – Facultad Regional San Francisco",
+      "url": "https://www.sanfrancisco.utn.edu.ar/",
+      "area": "Ingeniería en Sistemas de Información ",
+      "studyType": "Universitario",
+      "startDate": "2010",
+      "endDate": "presente",
+      "score": "4.0"
+    },    {
+        "institution": "Esc. Dr. Dalmacio Vélez Sarsfield",
+        "url": "https://www.ddvs.edu.ar/",
+        "area": "Bachiller con Orientación en Economía y  Administración",
+        "studyType": "Bachelor",
+        "startDate": "2002",
+        "endDate": "2009",
+        "score": "4.0",
+        "courses": ["DB1101 - Basic SQL"]
+      },    {
+        "institution": "Esc. Dr. Dalmacio Vélez Sarsfield",
+        "url": "https://www.ddvs.edu.ar/",
+        "area": "",
+        "studyType": "Secundario",
+        "startDate": "1996",
+        "endDate": "2001",
+        "score": "4.0",
+        "courses": ["DB1101 - Basic SQL"]
+      }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "lectocomprensión"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Project",
+      "description": "Description…",
+      "highlights": ["Won award at AIHacks 2016"],
+      "keywords": ["HTML"],
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "url": "https://project.com/",
+      "roles": ["Team Lead"],
+      "entity": "Entity",
+      "type": "application"
+    }
+  ]
+}
